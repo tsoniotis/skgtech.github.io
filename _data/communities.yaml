@@ -123,4 +123,13 @@
       email: "s.kourtzanidis@outlook.com"
     - name: "Konstantinos Ziazios"
       email: "ziaziosk@gmail.com"      
+- name: "SKG Startupers"
+  period: "Monthly"
+  happensAt: "Every last Saturday of each month...usually"
+  description: "Let's put Thessaloniki on the map! Calling out to all SKG Startupers to post their efforts and network."
+  website: "https://www.facebook.com/groups/SKG.Startupers/"
+  facebook: "https://www.facebook.com/groups/SKG.Startupers/"
+  maintainers:
+    - name: "Nikolaos Tsoniotis"
+      email: "n.tsoniotis@gmail.com"
 
