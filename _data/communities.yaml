@@ -141,3 +141,10 @@
   maintainers:
     - name: "SheSharp Team"
       email: "shesharpgr@gmail.com"
+- name: "SKG Startupers"
+  period: "Monthly"
+  description: "A community for all things startup"
+  website: "https://www.facebook.com/groups/SKG.Startupers"
+  maintainers:
+    - name: "Nikolaos Tsoniotis"
+      email: "n.tsoniotis@gmail.com"
